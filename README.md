@@ -1,9 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/aIBftyMV)
-
-
 # F1 Fanalytics Dashboard
 
-
+Link to deployed website: https://motorsport-analytics.netlify.app/
 ## Overview
 
 The F1 Racing Dashboard is a comprehensive and innovative endeavor, designed to meet the analytical needs of Formula 1 enthusiasts, strategists, and analysts. The visually compelling and user-friendly interface unravels the intricate layers of Formula 1 dynamics, focusing on four key performance indicators (KPIs): Rating, Race Viewership, Total Fanbase, and Stock Price.
